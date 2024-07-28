@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a6f395487301e44baed8b7d6cd2638f, type: 3}
+  m_Name: DataSetFull
+  m_EditorClassIdentifier: 
+  setFullObjects:
+  - moduleHair: {fileID: 0}
+    moduleShield: {fileID: 0}
+    moduleTail: {fileID: 8852035630765535259, guid: 11cc0b625a80a9c48b305dc70eb29d2f, type: 3}
+    moduleWing: {fileID: -4232751367267758336, guid: 4f5b5604f4d1bd248a094e2f3ee880a0, type: 3}
+    paintMesh: {fileID: 2100000, guid: 825b8473852b6e447bd14cda20a13261, type: 2}
+    fullMesh: {fileID: 2100000, guid: 29fd00e4b354a454caf203f127ae7781, type: 2}
+    buffType: 0
+    value: 20
+  - moduleHair: {fileID: 164204785374351378, guid: 347203bd3d35da64a84e7d4f4236c16a, type: 3}
+    moduleShield: {fileID: -1508788988107321258, guid: 0dc0fbcc0cdcb8c4a9390b520a27d072, type: 3}
+    moduleTail: {fileID: 0}
+    moduleWing: {fileID: 2714470655732657905, guid: 0276eb42e22883a4689ff6b0d24e2f71, type: 3}
+    paintMesh: {fileID: 2100000, guid: f1c87690a34c6a14d9590f456357fb8f, type: 2}
+    fullMesh: {fileID: 2100000, guid: fb6324b98528c72499ad28fb406cd35a, type: 2}
+    buffType: 2
+    value: 15
+  - moduleHair: {fileID: -4445323520236223093, guid: 0b4879d29c58bd849b05f85d5ad02e27, type: 3}
+    moduleShield: {fileID: 3601766002861809287, guid: 7db84e257031a424d959b95d5aaac72b, type: 3}
+    moduleTail: {fileID: 0}
+    moduleWing: {fileID: 0}
+    paintMesh: {fileID: 0}
+    fullMesh: {fileID: 2100000, guid: 122c0a15f52638549bf48cc13c73c017, type: 2}
+    buffType: 1
+    value: 10
+  - moduleHair: {fileID: 0}
+    moduleShield: {fileID: 3381041013944613379, guid: 63035875fa7b5024f8b97c9dfe3bfac5, type: 3}
+    moduleTail: {fileID: 0}
+    moduleWing: {fileID: 0}
+    paintMesh: {fileID: 0}
+    fullMesh: {fileID: 2100000, guid: 8ed50ba9256734044927f1f73d8bc690, type: 2}
+    buffType: 2
+    value: 10
+  - moduleHair: {fileID: 903974841597755579, guid: f60d496549085be4e9f3c5eda8f9793c, type: 3}
+    moduleShield: {fileID: 0}
+    moduleTail: {fileID: 0}
+    moduleWing: {fileID: 0}
+    paintMesh: {fileID: 0}
+    fullMesh: {fileID: 2100000, guid: b011e428b7b27f3418ee84e2cd6d48f9, type: 2}
+    buffType: 0
+    value: 40

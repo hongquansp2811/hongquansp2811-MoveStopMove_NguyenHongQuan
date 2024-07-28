@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b9d1c2d40fb85746b3f52f565fdc663, type: 3}
+  m_Name: ShopDataConfig
+  m_EditorClassIdentifier: 
+  WeaponDataConfigs:
+  - ID: 0
+    Name: Candy
+    Description: + 5 Move Speed
+    Price: 500
+    image: {fileID: 21300000, guid: 668d30e4592edff49a05dd60ae891ec5, type: 3}
+  - ID: 1
+    Name: Arrow
+    Description: + 2 Attack Range
+    Price: 700
+    image: {fileID: 21300000, guid: c9eb5ae63e60c8f45bc3e5f1a67cac20, type: 3}
+  - ID: 2
+    Name: Axe
+    Description: + 7 Move Speed
+    Price: 1000
+    image: {fileID: 21300000, guid: 01cd9db1efa1f864c8cb603dc4217de8, type: 3}
+  - ID: 3
+    Name: Hammer
+    Description: '+ 2 Attack '
+    Price: 1500
+    image: {fileID: 21300000, guid: 71af2a61c451a45488b1879a14608b8f, type: 3}
+  - ID: 4
+    Name: Boomerang
+    Description: '+ 2 Attack '
+    Price: 1500
+    image: {fileID: 21300000, guid: 7321b5fb5f8fa37438824a5cb33a2592, type: 3}
+  HairDataConfigs:
+  - ID: 0
+    Name: Arrow
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: 0579780668833ab4396dec730e28f3bb, type: 3}
+  - ID: 1
+    Name: Cowboy
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: 84defa1fe75e37445beb4f1ece13d1d9, type: 3}
+  - ID: 2
+    Name: Heaphone
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: ead1f80005eb15143af10a1993114e7e, type: 3}
+  - ID: 3
+    Name: Crow
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: 25492f4df7a18b24397869c314c3913a, type: 3}
+  - ID: 4
+    Name: Yellow Hair
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: 3e07e7bbf3c06114ea8d33bf3d74cf36, type: 3}
+  - ID: 5
+    Name: Ear
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: 8c653ca3d8811a44291756673697713a, type: 3}
+  - ID: 6
+    Name: Hat Cap
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: eb47137e45656ab439f1779d4c48d3c2, type: 3}
+  - ID: 7
+    Name: 'Hat '
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: adf48f425f7360e42a53030948c1c14c, type: 3}
+  - ID: 8
+    Name: Horn
+    Description: 1
+    Price: 500
+    image: {fileID: 21300000, guid: 9d9dfcc8ab65acb40bc618312ec31139, type: 3}
+  PantsDataConfigs:
+  - ID: 0
+    Name: Batman
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: 47c8d5358d60d474388d6a7e89a221aa, type: 3}
+  - ID: 1
+    Name: Chambi
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: 60bbae7447731bc4f8f7921a7b846832, type: 3}
+  - ID: 2
+    Name: Comy
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: e4d349a1e99479b42882cbf208c4e894, type: 3}
+  - ID: 3
+    Name: Dabao
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: e6cdcdd7f2a0d8b4fb11ca94d0d7d775, type: 3}
+  - ID: 4
+    Name: Onion
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: e119361a0d7fd344eb37842037719c31, type: 3}
+  - ID: 5
+    Name: Pokemon
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: f5d61e52e0c02c7499cc3e23eb8c7f3f, type: 3}
+  - ID: 6
+    Name: Rainbow
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: 006435c12055ced4384c81603df71e0e, type: 3}
+  - ID: 7
+    Name: Skull
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: e97fa78b135de6144a5983996978204a, type: 3}
+  - ID: 8
+    Name: Vantim
+    Description: 3
+    Price: 500
+    image: {fileID: 21300000, guid: 26709d5737c6d6e4b90ed4b589a29b6b, type: 3}
+  AmorDataConfigs:
+  - ID: 0
+    Name: Shield
+    Description: 4
+    Price: 1000
+    image: {fileID: 21300000, guid: 4425c67bfca99434abdf276a2ad1d73e, type: 3}
+  - ID: 1
+    Name: Shield Captaint America
+    Description: 4
+    Price: 1000
+    image: {fileID: 21300000, guid: f5049482cbb73dc4b94672b0d7804607, type: 3}
+  SetFullDataConfigs:
+  - ID: 0
+    Name: Set Devil
+    Description: 20 % Gold
+    Price: 5000
+    image: {fileID: 21300000, guid: 591bf6bd34c3a3c4e9143ba55a6c7d7b, type: 3}
+  - ID: 1
+    Name: Set Angel
+    Description: 15% Move Speed
+    Price: 5000
+    image: {fileID: 21300000, guid: 9f8e6f5ea0f849447b464193072ab6f3, type: 3}
+  - ID: 2
+    Name: Set Witch
+    Description: 10% Range
+    Price: 5000
+    image: {fileID: 21300000, guid: 916eb971e2dc28b419a242fa6950df78, type: 3}
+  - ID: 3
+    Name: Set DeadPool
+    Description: 10% Move Speed
+    Price: 5000
+    image: {fileID: 21300000, guid: 7965f490c2ec6044d854d957fe85186e, type: 3}
+  - ID: 4
+    Name: Set Thor
+    Description: 40% Gold
+    Price: 5000
+    image: {fileID: 21300000, guid: 0363a7557b133774f99bf84dcf6fcbed, type: 3}

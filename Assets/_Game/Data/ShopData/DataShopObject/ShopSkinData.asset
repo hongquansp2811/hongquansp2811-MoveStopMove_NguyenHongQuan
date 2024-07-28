@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25d0b087bf3fba94a85265cbb4db6573, type: 3}
+  m_Name: ShopSkinData
+  m_EditorClassIdentifier: 
+  hairSkinObjects:
+  - {fileID: 4420866802658281462, guid: f4f6910e53854f049818beac9fd8e9ab, type: 3}
+  - {fileID: 7132775559683137618, guid: 65ff1cabe9d20a64d9e031d396c2594d, type: 3}
+  - {fileID: 3412970594922517386, guid: c10b1f9f04bd875458fdb32f286ac3b2, type: 3}
+  - {fileID: 3646795205759673594, guid: f522e7f9c8e06334996fad9f69468c0f, type: 3}
+  - {fileID: 2428788828926444914, guid: 94cd8f1298a0f7240b2c1b3f316cc5d1, type: 3}
+  - {fileID: 7069703644292886512, guid: ab3641470bd387b41888146c189fdb2f, type: 3}
+  - {fileID: 7184830541324875339, guid: 5fb502851eb8acc488ebcd90fc16a61d, type: 3}
+  - {fileID: 4224901220368987374, guid: 487f30c2ed43e8641b8d71a5442cc39d, type: 3}
+  - {fileID: 8957485535010129215, guid: 43482887c36dd4f41acca47893cd4c2d, type: 3}
+  shieldSkinObjects:
+  - {fileID: -4950960968175438857, guid: 07d43ca4de2a31f46862c24e5d1ad9f6, type: 3}
+  - {fileID: 6527557489469673136, guid: 5415b7c055d227e47b04c9c96c1dacf3, type: 3}
